@@ -1,0 +1,92 @@
+﻿
+@{
+    //List<Order> orders = ViewBag.orders;
+    List<CheckOut> orderProducts = ViewBag.orderProducts;
+    string? message = ViewBag.message;
+}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Software Emporium</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="navbar-nav ms-auto">
+                <div class="nav-item">
+                </div>
+                <div class="nav-item d-flex justify-content-end">
+                    <a class="toggle">
+                        
+                    </a>
+                    <div>
+                        
+                    </div>
+                </div>
+
+                <div class="nav-item">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="card-group">
+    @if (message == null)
+    {
+        @foreach (var op in orderProducts)
+        {
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem; margin-bottom:20px ">
+                    <img src="http:/@op.Image" class="card-img-top" style="width:300px; height:200px" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@op.Name</h5>
+                        <p class="card-text">@op.Description</p>
+
+                        <div class="review-bar">
+                        </div>
+
+                        <div class="card-footer">
+                            <small class="text-muted">
+                                <button type="button" class="btn btn-success add-to-cart-btn" data-product-id="@op.ProductID" @*data-product-price="@op.Price"*@> Dowload</button>
+                            </small>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8 p-3  text-left">
+                <p class="fs-4">Purchase On: @op.Date</p>
+                <p class="fs-4">Quantity:@op.Quantity</p>
+                <p class="fs-4">
+                    Activation code:
+                    @if (op.ActivationCodeList != null && op.ActivationCodeList.Length > 0)
+                    {
+
+                        <select>
+                            @foreach (var code in op.ActivationCodeList)
+                            {
+                                <option value="@code">@code</option>
+                            }
+                        </select>
+                    }
+                    else
+                    {
+                        @op.ActivationCode
+                    }
+                </p>
+
+            </div>
+        }
+    }
+    else
+    {
+        <h3>@message</h3>
+    }
+</div>
+
+@section Scripts
+    {
+    <script src="/js/site.js"></script>
+}
+

@@ -1,0 +1,147 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html { 
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.search{
+    width:100%;
+    margin:auto;
+}
+
+.total_align {
+    text-align: right;
+}
+
+
+#maintitle {
+    text-align: center;
+    padding-top: 10px;
+    color: darkblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text-muted {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.container {
+    background-color: #F5F5F5;
+}
+
+.card-group {
+    margin: 30px 30px;
+}
+
+.card {
+    border-radius: 10px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-img-top {
+    margin-top: 20px;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    object-fit: contain;
+}
+
+.nav-link {
+    padding: 2px 0px 0px 0px;
+}
+
+.toggle {
+    text-decoration: none;
+    text-align: center;
+    padding-right: 2px !important;
+}
+
+.fas {
+    color: grey !important;
+}
+
+.dropdown-item {
+    color: grey;
+}
+
+
+#welcome-message {
+    text-decoration: none !important;
+}
+
+/* css for star icons ratings from font awesome */
+.review-bar {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    color: #555;
+}
+
+.review-stars {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.review-count {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 5px;
+}
+
+.review-stars i {
+    float: left;
+    margin-left: 5px;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 1;
+    text-align: center;
+    margin-right: 2px;
+    cursor: pointer;
+    color: #bbb;
+}
+
+.review-stars:not(:checked) > i {
+    float: right;
+}
+
+.review-stars i:hover ~ i,
+.review-stars i.active ~ i {
+    color: #ffba00;
+}
+
+.review-stars i:hover,
+.review-stars i.active {
+    color: #ffba00;
+}
+
+.review-stars i.highlight {
+    color: #ffba00;
+}
+
+.but{
+    margin-top:10px;
+}

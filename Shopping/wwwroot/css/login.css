@@ -1,0 +1,50 @@
+﻿* {
+    /*user cannot select elements, e.g. cannot copy Username and Password. */
+    user-select: none;
+}
+
+.login_body {
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.login {
+    position: absolute;
+    top: 350px !important;
+    margin-top: -200px;
+    left: 50%;
+    margin-left: -200px;
+    background-color: #fff;
+    width: 400px;
+    height: 360px;
+    border-radius: 25px;
+    padding: 5px 40px;
+    box-sizing: border-box;
+}
+
+.login_input {
+    /*background-color: #fff;*/
+    width: 100%;
+    height: 48px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid silver;
+    outline: none;
+    font-size: 22px;
+}
+
+.btn_login {
+    background-color: royalblue !important;
+    width: 100%;
+    height: 48px;
+    border: none;
+    font-size: 28px;
+    line-height: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
+    .btn_login:hover {
+        background-color: deepskyblue;
+    }

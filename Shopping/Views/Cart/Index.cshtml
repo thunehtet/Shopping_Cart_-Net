@@ -1,0 +1,8 @@
+﻿@model List<Purchase>;
+
+
+@foreach(var item in Model) {
+    <p> @item.ProductID </p>
+    <p> @item.CustomerID </p>
+    <p> @item.NumberOfPurchase </p>
+}

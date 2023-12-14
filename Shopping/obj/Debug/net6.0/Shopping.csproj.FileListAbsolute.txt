@@ -1,0 +1,390 @@
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\appsettings.Development.json
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\appsettings.json
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Shopping.staticwebassets.runtime.json
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Shopping.exe
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Shopping.runtimeconfig.json
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cache
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cs
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.build.Shopping.props
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.build.json
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.development.json
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Azure.Core.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Azure.Identity.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ASP\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cache
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cs
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+E:\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+E:\Shopping\Shopping\bin\Debug\net6.0\appsettings.Development.json
+E:\Shopping\Shopping\bin\Debug\net6.0\appsettings.json
+E:\Shopping\Shopping\bin\Debug\net6.0\Shopping.staticwebassets.runtime.json
+E:\Shopping\Shopping\bin\Debug\net6.0\Shopping.exe
+E:\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+E:\Shopping\Shopping\bin\Debug\net6.0\Shopping.runtimeconfig.json
+E:\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+E:\Shopping\Shopping\bin\Debug\net6.0\Azure.Core.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Azure.Identity.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Castle.Core.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.build.Shopping.props
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.build.json
+E:\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.development.json
+E:\Shopping\Shopping\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Shopping\Shopping\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+E:\Shopping\Shopping\obj\Debug\net6.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+E:\Shopping\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+E:\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\appsettings.Development.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\appsettings.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.staticwebassets.runtime.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.exe
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.runtimeconfig.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Azure.Core.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Azure.Identity.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Castle.Core.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Memory.Data.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cache
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cs
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.build.Shopping.props
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.pack.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.build.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.development.json
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+F:\1_recentPlans\01_NUS\6_ASP.NET\Assignment\测试代码\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\appsettings.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.staticwebassets.runtime.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.exe
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.runtimeconfig.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cache
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cs
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.build.Shopping.props
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+C:\Users\junlo\Downloads\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\appsettings.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.staticwebassets.runtime.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.exe
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.deps.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.runtimeconfig.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Shopping.pdb
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.AssemblyReference.cache
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfoInputs.cache
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.AssemblyInfo.cs
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cache
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.RazorAssemblyInfo.cs
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.Shopping.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.build.Shopping.props
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shopping.props
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shopping.props
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\bundle\Shopping.styles.css
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\scopedcss\projectbundle\Shopping.bundle.scp.css
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.csproj.CopyComplete
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\refint\Shopping.dll
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.pdb
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\Shopping.genruntimeconfig.cache
+C:\Users\junlo\OneDrive\Desktop\Grad Dip SA\SA4102\CA assignment\Shopping-changed4.20\Shopping-changed4.19\Shopping\Shopping\obj\Debug\net6.0\ref\Shopping.dll

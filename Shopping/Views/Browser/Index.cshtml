@@ -1,0 +1,73 @@
+﻿@model Shopping.Models.Product;
+
+@{
+    var products = (List<Product>)ViewData["product"];
+}
+
+@section Scripts
+    {
+
+    <script>window.username1 = '@ViewData["username"]';</script>
+    <script src="/js/site.js"></script>
+}
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Software Emporium</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="navbar-nav ms-auto">
+                <div class="nav-item">
+                </div>
+                <div class="nav-item d-flex justify-content-end" >
+                    <a class="toggle">
+                    </a>
+                    <div>
+                        
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</nav>
+
+<div class="card-group">
+    @foreach (var p in products)
+    {
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem; margin-bottom:20px ">
+                
+                <div class="card-body">
+                    <input type="hidden" class="product-id" value="@p.ProductID" />
+                    <img src="http:/@p.Image" class="product-image card-img-top" style="width:300px; height:200px" alt="...">
+                    <h5 class=" card-title product-title">@p.Name</h5>
+                    <p class="product-text card-text">@p.Description</p>
+                    <p class="product-price card-price ">$@p.Price</p>
+
+                    <div class="review-bar">
+                        <div class="review-stars" prodId="@p.ProductID">
+                            <i class="fa fa-star @((p.AverageCount >= 5) ? "highlight" : "")"  onclick="handleStarClick(@p.ProductID,5)" data-product-id="@p.ProductID" data-index="4"></i>
+                            <i class="fa fa-star @((p.AverageCount >= 4) ? "highlight" : "")"  onclick="handleStarClick(@p.ProductID,4)" data-product-id="@p.ProductID" data-index="3"></i>
+                            <i class="fa fa-star @((p.AverageCount >= 3) ? "highlight" : "")"  onclick="handleStarClick(@p.ProductID,3)" data-product-id="@p.ProductID" data-index="2"></i>
+                            <i class="fa fa-star @((p.AverageCount >= 2) ? "highlight" : "")"  onclick="handleStarClick(@p.ProductID,2)" data-product-id="@p.ProductID" data-index="1"></i>
+                            <i class="fa fa-star @((p.AverageCount >= 1) ? "highlight" : "")"  onclick="handleStarClick(@p.ProductID,1)" data-product-id="@p.ProductID" data-index="0"></i>
+                        </div>
+                        <div id="@p.ProductID"> </div>
+                        <div id="@p.ProductID" class="review-count">(@p.CountClick reviews)</div>
+                    </div>
+
+                    
+                    <button type="button" class="addToCart btn btn-success btn-sm" data-product-id="@p.ProductID">Add to Cart</button>
+                   
+                    
+                </div>
+            </div>
+        </div>
+    }
+</div>  
+
+
+

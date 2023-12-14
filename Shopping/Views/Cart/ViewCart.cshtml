@@ -1,0 +1,45 @@
+﻿@{
+    var view = (List<ViewCart>)ViewData["view"];
+    var total = (int)ViewData["total"];
+}
+
+<form action="/Cart/CheckOut" id="check_out_form"> 
+<div class="container-fluid">
+   
+   <div class="row">
+        Total:$<p class="total_align" id="row">@total</p>
+        @foreach(var p in view)
+        {
+            <div class="col-md-4 p-3  text-content-center">
+                <div class="card" style="width: 15rem;">
+                    <img src="@p.Image" class="card-img-top" alt="...">
+                      <div class="card-body">
+                            <h5 class="card-title">@p.Name</h5>
+                          <p class="card-text">@p.Description</p>
+                         
+
+                        </div>
+                 </div>
+            </div>
+            <div class="col-md-8 p-3" style="text-align:center">
+
+                <p class="price">Price:$@p.Price</p>
+                Quantity:<input type="number" class="button" id="@p.ProductID" value="@p.NumberOfPurchase"min="1" step="1" style="width:40px;" />
+                    
+            </div>           
+        }
+        
+        <a href="@Url.Action("Index", "Browser")" class="btn btn-secondary btn-lg btn-block" style="margin-bottom:10px">Continue Shopping</a>
+        <button class="btn btn-primary btn-lg btn-block" id="checkoutBtn">CheckOut </button>
+       <script src="~/js/ViewCart.js"></script>
+        
+   </div>
+</form>
+  
+
+
+</div>
+@section Scripts{
+   <script src="~/js/viewcart.js" asp - append - version="true" ></script>
+}
+
